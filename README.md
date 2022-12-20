@@ -28,13 +28,21 @@ The suspension coil dataset contains the result of testing the weight capacities
 Conducting t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. The p-values from single t-test on PSI values for suspension coils were as follow:
 
 T-test for all manufacturing lots, PSI = 0.06028
+
 <img src="https://github.com/Zbahsoun/MechaCar_Statistical_Analysis/blob/main/Images/t-test%20all%20lots.png" width=50% height=40%>
+
 T-test for lot 1, PSI = 1
+
 <img src="https://github.com/Zbahsoun/MechaCar_Statistical_Analysis/blob/main/Images/t-test%20Lot1.png" width=50% height=40%>
+
 T-test for lot 2, PSI = 0.6072
+
 <img src="https://github.com/Zbahsoun/MechaCar_Statistical_Analysis/blob/main/Images/t-test%20Lot2.png" width=50% height=40%>
+
 T-test for lot 3, PSI = 0.04168
+
 <img src="https://github.com/Zbahsoun/MechaCar_Statistical_Analysis/blob/main/Images/t-test%20Lot3.png" width=50% height=40%>
+
 
 All lots are not significantly different to the standard population mean of 1500, except for lot 3 which has the most variance and lower PSI average. This can be an indicator that lot 3 should not be used within the MechaCar.
 
