@@ -7,8 +7,6 @@ Jeremy has been working with AutosRUs for 10 years, because of his experience an
 
 ## Linear Regression to Predict MPG
 
-The below image shows the prediction of the linear regression to predict MPG
-
 <img src="https://github.com/Zbahsoun/MechaCar_Statistical_Analysis/blob/main/Images/linear%20regression.png" width=50% height=40%>
 
 - The vehicle length, and vehicle ground clearance are the two variables that will provide non-random amounts of variance to the mpg values in the dataset.
